@@ -1,5 +1,5 @@
 # About 
-Hi, I'm Kaisei Takahashi. I'm master's student in Japan Advanced Institute of Science and Technology.
+Hi, I'm Kaisei Takahashi, a master's student in Japan Advanced Institute of Science and Technology.
 
 - Research Topic
   - Soft Robotics
