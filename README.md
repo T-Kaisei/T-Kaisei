@@ -3,7 +3,7 @@ Hi, I'm Kaisei Takahashi, a master's student in Japan Advanced Institute of Scie
 
 - Research Topic
   - Soft Robotics
-    - Mobile Robot, Sensor, Whisker
+    - Controlling soft material by deep reinforcement learning
   - Deep Reinforcement learning
     - Distributional Shift
 
