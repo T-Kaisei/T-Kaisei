@@ -1,4 +1,4 @@
-# About 
+# About Me
 Hi, I'm Kaisei Takahashi, a master's student in Japan Advanced Institute of Science and Technology.
 
 - Research Topic
